@@ -1,0 +1,37 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.pagination button {
+  color: #5661cb;
+  border: none;
+  background: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.pagination button.active {
+  font-weight: 700;
+}
+
+.arrow {
+  border-radius: 50%;
+  border: 1px solid #5661cb;
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.arrow:hover {
+  background-color: #5661cb;
+}
+
+.arrow:hover svg path {
+  fill: white;
+}

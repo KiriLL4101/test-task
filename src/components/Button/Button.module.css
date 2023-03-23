@@ -1,0 +1,52 @@
+.button {
+  display: inline-block;
+
+  box-sizing: border-box;
+  padding: 10px;
+
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: center;
+
+  border: none;
+  border-radius: 4px;
+
+  font-size: 14px;
+  color: #fff;
+}
+
+.button:hover {
+  opacity: 0.7;
+}
+
+.link {
+  font-weight: 300;
+  font-size: 12px;
+  text-decoration-line: underline;
+  color: #7d7d7d;
+  background-color: inherit;
+
+  border: none;
+
+  cursor: pointer;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+.default {
+  background-color: #5661cb;
+}
+
+.success {
+  background-color: #21ba45;
+}
+
+.danger {
+  background-color: #db2828;
+}
+
+.fluid {
+  width: 100%;
+}

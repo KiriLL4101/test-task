@@ -1,0 +1,204 @@
+[
+    {
+        "id": "35E16BB7-6BBE-E9E5-AABA-56DFB7E95C94",
+        "count": 36,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "a, dui.",
+        "price": 9893,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "89D99095-E929-EA09-E2F4-3459D4A6B1A7",
+        "count": 31,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "vel lectus.",
+        "price": 3927,
+        "badge": {
+            "text": "Лучшая цена",
+            "type": "danger"
+        }
+    },
+    {
+        "id": "C4DD6772-59D1-9D07-7E25-3FF7367BB666",
+        "count": 18,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "vel sapien",
+        "price": 2202,
+        "badge": {
+            "text": "Привезем сегодня",
+            "type": "success"
+        }
+    },
+    {
+        "id": "125C61B3-5EF9-6463-CD82-C3F525D14943",
+        "count": 3,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tincidunt adipiscing.",
+        "price": 3070,
+        "badge": null
+    },
+    {
+        "id": "E768382B-99AE-BB3E-F602-15DD8A6F51BE",
+        "count": 92,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tempor arcu.",
+        "price": 5028,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "DD486A99-0B26-45DF-9B9B-7429443DB2D4",
+        "count": 97,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "blandit at,",
+        "price": 2334,
+        "badge": null
+    },
+    {
+        "id": "34E158CE-0354-780F-274A-F929DD5DCA85",
+        "count": 24,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tellus. Phasellus",
+        "price": 6777,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "CEE33BDA-DA44-8842-6AAF-D91E5D034C26",
+        "count": 35,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "arcu. Aliquam",
+        "price": 1077,
+        "badge": {
+            "text": "Привезем сегодня",
+            "type": "success"
+        }
+    },
+    {
+        "id": "080E7D8A-E212-9EB5-4C78-D8A93249C50E",
+        "count": 24,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "pulvinar arcu",
+        "price": 4007,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "B1ED8B98-7789-4E02-CAD8-BE1DAC42EA3A",
+        "count": 19,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "eget metus",
+        "price": 2743,
+        "badge": null
+    },
+    {
+        "id": "BDAB7DB3-2A5A-12A8-A523-C428CBD29147",
+        "count": 36,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "a, dui.",
+        "price": 9893,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "1B8578BA-34B8-CBD5-C6EE-5736C8215D2C",
+        "count": 31,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "vel lectus.",
+        "price": 3927,
+        "badge": {
+            "text": "Лучшая цена",
+            "type": "danger"
+        }
+    },
+    {
+        "id": "4BAB4896-21E1-745C-61BE-10848838A177",
+        "count": 18,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "vel sapien",
+        "price": 2202,
+        "badge": {
+            "text": "Привезем сегодня",
+            "type": "success"
+        }
+    },
+    {
+        "id": "125C61B3-5EF9-6463-CD82-C3F525D14943",
+        "count": 3,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tincidunt adipiscing.",
+        "price": 3070,
+        "badge": null
+    },
+    {
+        "id": "E768382B-99AE-BB3E-F602-15DD8A6F51BE",
+        "count": 92,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tempor arcu.",
+        "price": 5028,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "DD486A99-0B26-45DF-9B9B-7429443DB2D4",
+        "count": 97,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "blandit at,",
+        "price": 2334,
+        "badge": null
+    },
+    {
+        "id": "34E158CE-0354-780F-274A-F929DD5DCA85",
+        "count": 24,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "tellus. Phasellus",
+        "price": 6777,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "CEE33BDA-DA44-8842-6AAF-D91E5D034C26",
+        "count": 35,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "arcu. Aliquam",
+        "price": 1077,
+        "badge": {
+            "text": "Привезем сегодня",
+            "type": "success"
+        }
+    },
+    {
+        "id": "080E7D8A-E212-9EB5-4C78-D8A93249C50E",
+        "count": 24,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "pulvinar arcu",
+        "price": 4007,
+        "badge": {
+            "text": "Лидер продаж",
+            "type": "warning"
+        }
+    },
+    {
+        "id": "B1ED8B98-7789-4E02-CAD8-BE1DAC42EA3A",
+        "count": 19,
+        "imageUrl": "https://images.unsplash.com/photo-1581094003536-021bddc33957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "type": "eget metus",
+        "price": 2743,
+        "badge": null
+    }
+]
