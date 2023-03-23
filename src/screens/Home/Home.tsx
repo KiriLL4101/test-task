@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { ComponentProps, useMemo, useState } from 'react'
 import { Inter } from 'next/font/google'
 import clsx from 'clsx'
 
@@ -9,7 +9,7 @@ import styles from './Home.module.css'
 const inter = Inter({ subsets: ['latin'] })
 
 type HomeProps = {
-  cards: Card[]
+  cards: ComponentProps<typeof Card>[]
 }
 
 const PageSize = 6

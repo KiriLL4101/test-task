@@ -9,7 +9,7 @@ import StarSvg from './star.svg'
 import styles from './Card.module.css'
 import { priceRu } from '@/helpers'
 
-export type CardProps = {
+type CardProps = {
   id: string
   imageUrl: string
   badge?: ComponentProps<typeof Badge>

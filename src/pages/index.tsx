@@ -1,6 +1,7 @@
 import Head from 'next/head'
 
 import Home from '@/screens/Home/Home'
+import type { Card } from '@/helpers/types'
 
 type HomeProps = {
   cards: Card[]
@@ -28,5 +29,8 @@ export const getStaticProps = async () => {
     }
   } catch (error) {
     console.error(error)
+    return {
+      notFound: true,
+    }
   }
 }
