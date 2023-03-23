@@ -12,6 +12,7 @@ export default function HomePage({ cards }: HomeProps) {
     <>
       <Head>
         <title>Test task</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Home cards={cards} />
     </>
